@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+[Click here to play the game](https://er-omsonar.github.io/Rock-Paper-scissors/)
+
 # Rock-Paper-scissors
 A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer, see instant results, and keep track of your score. A fun project to practice DOM manipulation,  and game logic.
 # 🪨 Rock Paper Scissors Game 🎮
